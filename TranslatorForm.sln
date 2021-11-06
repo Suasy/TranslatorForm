@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TranslatorForm", "TranslatorForm\TranslatorForm.csproj", "{5E0B441A-78F8-4166-84C3-40C137C9000A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E0B441A-78F8-4166-84C3-40C137C9000A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E0B441A-78F8-4166-84C3-40C137C9000A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E0B441A-78F8-4166-84C3-40C137C9000A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E0B441A-78F8-4166-84C3-40C137C9000A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0BDC3C0-0211-4906-9EB9-7372473EB523}
+	EndGlobalSection
+EndGlobal

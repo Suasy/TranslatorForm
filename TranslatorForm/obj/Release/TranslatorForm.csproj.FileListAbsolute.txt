@@ -1,0 +1,15 @@
+D:\Study\ProgramStudy\C#Study\TranslatorForm\TranslatorForm\bin\Release\TranslatorForm.exe.config
+D:\Study\ProgramStudy\C#Study\TranslatorForm\TranslatorForm\bin\Release\TranslatorForm.exe
+D:\Study\ProgramStudy\C#Study\TranslatorForm\TranslatorForm\bin\Release\TranslatorForm.pdb
+D:\Study\ProgramStudy\C#Study\TranslatorForm\TranslatorForm\bin\Release\Newtonsoft.Json.dll
+D:\Study\ProgramStudy\C#Study\TranslatorForm\TranslatorForm\bin\Release\SunnyUI.Common.dll
+D:\Study\ProgramStudy\C#Study\TranslatorForm\TranslatorForm\bin\Release\SunnyUI.dll
+D:\Study\ProgramStudy\C#Study\TranslatorForm\TranslatorForm\bin\Release\Newtonsoft.Json.xml
+D:\Study\ProgramStudy\C#Study\TranslatorForm\TranslatorForm\obj\Release\TranslatorForm.TransForm.resources
+D:\Study\ProgramStudy\C#Study\TranslatorForm\TranslatorForm\obj\Release\TranslatorForm.Properties.Resources.resources
+D:\Study\ProgramStudy\C#Study\TranslatorForm\TranslatorForm\obj\Release\TranslatorForm.csproj.GenerateResource.cache
+D:\Study\ProgramStudy\C#Study\TranslatorForm\TranslatorForm\obj\Release\TranslatorForm.csproj.CoreCompileInputs.cache
+D:\Study\ProgramStudy\C#Study\TranslatorForm\TranslatorForm\obj\Release\TranslatorForm.csproj.CopyComplete
+D:\Study\ProgramStudy\C#Study\TranslatorForm\TranslatorForm\obj\Release\TranslatorForm.exe
+D:\Study\ProgramStudy\C#Study\TranslatorForm\TranslatorForm\obj\Release\TranslatorForm.pdb
+D:\Study\ProgramStudy\C#Study\TranslatorForm\TranslatorForm\obj\Release\TranslatorForm.MyResource.resources
